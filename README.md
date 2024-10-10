@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Henrique Alonso😁
+## Bem-vindo(a) 😁
 
  <div>
    <a href="https://github.com/Henrique-Alonst">
