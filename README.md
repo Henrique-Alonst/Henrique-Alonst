@@ -14,7 +14,7 @@
  
 <br>
  
-### Minhas redes sociais pessoais e para estudos !
+### Minhas redes sociais para estudo e uso profissional !
  
 <div> 
  
