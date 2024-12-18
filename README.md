@@ -1,8 +1,7 @@
-## Bem-vindo(a) 😁
+## Bem-vindo(a)!!
 
  <div>
    <a href="https://github.com/Henrique-Alonst">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sHenrique-Alonst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Alonst&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
