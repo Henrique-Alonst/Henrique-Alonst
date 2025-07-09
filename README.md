@@ -50,7 +50,8 @@ Sistema de tarefas com funcionalidades completas:
 ## 📫 Contato
 
 - 📧 **[henriquealonso407@gmail.com](mailto:henriquealonso407@email.com)**  
-- 💼 [LinkedIn](www.linkedin.com/in/henrique-alonso-t)
+- 💼 [LinkedIn](https://www.linkedin.com/in/henrique-alonso-t)
+
 
 ---
 
