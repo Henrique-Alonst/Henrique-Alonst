@@ -9,13 +9,12 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💻 Desenvolvedor focado em projetos web com Node.js, MySQL e JavaScript  
-- 📚 Estudando: Docker, APIs REST, Banco de Dados e boas práticas de código  
-- 🌱 Sempre buscando aprender algo novo todos os dias  
+- 💻 Focado em projetos web com **Node.js, MySQL e JavaScript**  
+- 🌱 Sempre aprendendo e evoluindo todos os dias  
 
 ---
 
-## 🧰 Tecnologias que uso
+## 🧰 Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
@@ -26,15 +25,14 @@
 
 ---
 
-## 📌 Projeto em Destaque
+## 📌 Projetos em Destaque
 
-### ✅ [Checklist Full Stack](https://github.com/Henrique-Alonst/checklist-fullstack)
-
+### ✅ [Checklist Full Stack](https://github.com/Henrique-Alonst/checklist-fullstack)  
 Sistema de tarefas com funcionalidades completas:  
 ✔️ Adicionar, editar, excluir e marcar tarefas  
 🌙 Tema claro/escuro  
 📦 Back-end com Node.js + Express + MySQL  
-📲 Drag & Drop responsivo
+📲 Drag & Drop responsivo  
 
 ---
 
@@ -49,11 +47,9 @@ Sistema de tarefas com funcionalidades completas:
 
 ## 📫 Contato
 
-- 📧 **[henriquealonso407@gmail.com](mailto:henriquealonso407@email.com)**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/henrique-alonso-t)
-
+- 📧 **[henriquealonso407@gmail.com](mailto:henriquealonso407@gmail.com)**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/henrique-alonso-t)  
 
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
-
