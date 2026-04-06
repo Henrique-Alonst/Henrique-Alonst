@@ -57,7 +57,20 @@ Back-end: Node.js + Express + MySQL.
 
 ## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Henrique-Alonst&theme=github-dark&hide_border=true)
+
+<div align="center">
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Henrique-Alonst&theme=github-dark&hide_border=true)
+
+  <br/>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Alonst&layout=compact&langs_count=6&theme=github_dark&hide_border=true)
+
+  <br/>
+
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Henrique-Alonst&theme=github-compact&hide_border=true&area=true)
+
+</div>
 ---
 
 ## Contato
