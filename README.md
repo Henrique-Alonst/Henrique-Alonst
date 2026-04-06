@@ -55,26 +55,13 @@ Back-end: Node.js + Express + MySQL.
 
 ---
 
-## Stats
 
+## 📈 GitHub Stats
 
 <div align="center">
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Henrique-Alonst&theme=transparent&hide_border=true&stroke=ffffff&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=6e40c9&dates=888888)
-
-  <br/>
-
-  <a href="#">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Alonst&show_icons=true&theme=transparent&hide_border=true&icon_color=6e40c9&title_color=6e40c9&text_color=888888&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Alonst&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=6e40c9&text_color=888888"/>
-  </a>
-
-  <br/>
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Henrique-Alonst&theme=github-compact&hide_border=true&area=true&color=6e40c9&line=6e40c9&point=ffffff)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Alonst&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Alonst&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
----
 
 ## Contato
 
