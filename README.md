@@ -38,15 +38,6 @@ Antes disso, passei por um estágio de suporte técnico que me ensinou algo vali
 
 ---
 
-## Trajetória
-
-```
-dez/2025 → fev/2026   Estagiário de Suporte Técnico
-mar/2026 → atual      Estagiário Desenvolvedor Web (PHP · MySQL · JS)
-```
-
----
-
 ## Projeto em destaque
 
 **[Checklist Full Stack](https://github.com/Henrique-Alonst/checklist-fullstack)**
