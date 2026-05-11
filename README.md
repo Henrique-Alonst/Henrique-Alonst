@@ -36,7 +36,7 @@ Antes disso, passei por um estágio de suporte técnico que me ensinou algo vali
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power Automate](https://img.shields.io/badge/AUTOMATE-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Power Automate](https://img.shields.io/badge/POWER-AUTOMATE-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 
 ---
 
