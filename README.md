@@ -11,7 +11,7 @@
 
 **Desenvolvedor Web · Porto Alegre, RS**
 
-ADS 4° semestre na FAQI · Estagiário Dev desde março/2026
+ADS 5° semestre na FAQI · Estagiário Dev
 
 </div>
 
