@@ -57,8 +57,8 @@ Back-end: Node.js + Express + MySQL.
   <br/>
 
   <a href="#">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Alonst&show_icons=true&theme=transparent&hide_border=true&icon_color=6e40c9&title_color=6e40c9&text_color=888888&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Alonst&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=6e40c9&text_color=888888"/>
+    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Henrique-Alonst&rank_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
+    <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Henrique-Alonst&layout=compact&langs_count=6&theme=midnight-purple"/>
   </a>
 
   <br/>
